@@ -1,8 +1,8 @@
 <img src="http://oleeed73x.bkt.clouddn.com/1523954189_634686.png" />
-#
+### react native Gif图组件
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
-react native gif图加载组件。支持 gif图 加载、播放、暂停等。
+#### 功能支持：加载、播放、暂停等。
 
 #### 一、配置
 
