@@ -1,4 +1,5 @@
-# react-native-gifview
+<img src="http://oleeed73x.bkt.clouddn.com/1523954142_641380.png" />
+#
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
 react native gif图加载组件。支持 gif图 加载、播放、暂停等。
