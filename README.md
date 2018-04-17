@@ -2,7 +2,7 @@
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
-#### 功能支持：加载、播放、暂停等。【词米粒】是一款学习英语的App，在该App中使用了该功能并做了优化，可以下载体验
+#### 功能支持：加载、播放、暂停等。[词米粒](https://itunes.apple.com/cn/app/id1181823371?mt=8)是一款专注“原版场景短视频”学单词的App，在该App中使用了该功能并做了优化，可以下载体验
 
 <img width=300 height=500 src="http://oleeed73x.bkt.clouddn.com/1523955151452.jpg" />
 <img width=300 height=500 src="http://oleeed73x.bkt.clouddn.com/1523955135615.jpg" />
