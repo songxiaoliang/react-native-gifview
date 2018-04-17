@@ -19,7 +19,7 @@ react native gif图加载组件。支持 gif图 加载、播放、暂停等。
 ```
 
 ##### 【 iOS 平台配置 】
-#####  将ios_gifview文件夹拖入工程目录下即可。
+#####  将ios_gifview文件夹拖入工程目录下即可，如下图
 <img src="http://oleeed73x.bkt.clouddn.com/1523953350315.jpg"/>
 #### 二、使用
 
