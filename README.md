@@ -4,8 +4,8 @@
 
 #### 功能支持：加载、播放、暂停等。
 
-<img src="http://oleeed73x.bkt.clouddn.com/1523955151452.jpg" />
-<img src="http://oleeed73x.bkt.clouddn.com/1523955135615.jpg" />
+<img width=200 height=300 src="http://oleeed73x.bkt.clouddn.com/1523955151452.jpg" />
+<img width=200 height=300 src="http://oleeed73x.bkt.clouddn.com/1523955135615.jpg" />
 
 #### 一、配置
 
