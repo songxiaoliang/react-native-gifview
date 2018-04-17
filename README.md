@@ -23,6 +23,12 @@
       );
     }
 ```
+##### 4.在app/build.gradle文件下添加依赖：
+```xml
+dependencies {
+    compile 'pl.droidsonroids.gif:android-gif-drawable:1.2.12'
+}
+```
 
 ##### 【 iOS 平台配置 】
 #####  将ios_gifview文件夹拖入工程目录下即可，如下图
