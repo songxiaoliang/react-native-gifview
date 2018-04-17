@@ -49,3 +49,4 @@ render() {
 ###### （1）playStatus: 控制gif图的播放桩体，true为播放，false为暂停
 ###### （2）imageName: gif图URL，em: https://cimili-cdn-gif-of-track.cimili.com/v2_gif_266_6967.gif
 
+##### 成员：[jaydenin](https://github.com/jaydenin)
