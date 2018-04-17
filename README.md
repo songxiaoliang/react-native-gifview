@@ -1,5 +1,5 @@
 <img src="http://oleeed73x.bkt.clouddn.com/1523954189_634686.png" />
-### react native Gif图组件
+#
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
 #### 功能支持：加载、播放、暂停等。
@@ -8,7 +8,8 @@
 
 ##### 【 Android 平台配置 】
 ##### 1. 将android_gifview文件夹拖入android工程包名目录下，例如 com.xxx。
-##### 2. 在MainApplication中的getPackages方法中注册Package:
+##### 2. 打开android_gifview下文件，将最顶部package com.xxx中xxx替换成自己对应包名。
+##### 3. 在MainApplication中的getPackages方法中注册Package:
 ```java
     @Override
     protected List<ReactPackage> getPackages() {
