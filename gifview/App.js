@@ -1,7 +1,7 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
+ * GifView App
+ * Songlcy
+ * 2018-04-17
  */
 
 import React, { Component } from 'react';
