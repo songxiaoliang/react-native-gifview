@@ -1,0 +1,3 @@
+rootProject.name = 'gifview'
+
+include ':app'
