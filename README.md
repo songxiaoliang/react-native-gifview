@@ -1,5 +1,5 @@
 <img src="http://oleeed73x.bkt.clouddn.com/1523954189_634686.png" />
-#
+
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
 #### 功能支持：加载、播放、暂停等。
