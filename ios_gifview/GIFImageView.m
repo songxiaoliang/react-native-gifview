@@ -25,11 +25,11 @@
 }
 
 
--(void)setIsStop:(BOOL)isStop{
-  if (isStop) {
-    [self stopAnimating];
-  } else {
+-(void)setPlayStatus:(BOOL)playStatus{
+  if (playStatus) {
     [self startAnimating];
+  } else {
+    [self stopAnimating];
   }
 }
 

@@ -9,6 +9,6 @@
 #import "CADisplayLineImageView.h"
 
 @interface GIFImageView : CADisplayLineImageView
-@property (nonatomic, assign) BOOL isStop;
+@property (nonatomic, assign) BOOL playStatus;
 @property (nonatomic, strong) NSString * imageName;
 @end

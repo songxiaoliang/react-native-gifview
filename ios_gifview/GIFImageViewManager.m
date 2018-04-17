@@ -17,9 +17,8 @@
 
 //  标记宏（必要）
 RCT_EXPORT_MODULE()
-RCT_EXPORT_VIEW_PROPERTY(isStop, BOOL);
+RCT_EXPORT_VIEW_PROPERTY(playStatus, BOOL);
 RCT_EXPORT_VIEW_PROPERTY(imageName, NSString);
-
 
 - (UIView *)view{
   return [GIFImageView new];
