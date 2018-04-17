@@ -1,4 +1,4 @@
-package com.gifview.gifview;
+package com.xxx.gifview;
 
 import android.widget.ImageView;
 
