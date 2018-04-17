@@ -1,4 +1,4 @@
-package com.gifview.gifview;
+package com.xxx.gifview;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
