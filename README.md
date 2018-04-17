@@ -4,6 +4,9 @@
 
 #### 功能支持：加载、播放、暂停等。
 
+<img src="http://oleeed73x.bkt.clouddn.com/1523955151452.jpg" />
+<img src="http://oleeed73x.bkt.clouddn.com/1523955135615.jpg" />
+
 #### 一、配置
 
 ##### 【 Android 平台配置 】
@@ -44,3 +47,4 @@ render() {
 ##### 3.属性介绍
 ###### （1）playStatus: 控制gif图的播放桩体，true为播放，false为暂停
 ###### （2）imageName: gif图URL，em: https://cimili-cdn-gif-of-track.cimili.com/v2_gif_266_6967.gif
+
