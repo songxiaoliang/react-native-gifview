@@ -3,7 +3,6 @@
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
 #### 功能支持：加载、播放、暂停等。
-##### [词米粒](https://itunes.apple.com/cn/app/id1181823371?mt=8)是一款专注“原版场景短视频”学单词的App，在该App中使用了该功能并做了优化，可以下载体验
 
 <img width=300 height=500 src="http://oleeed73x.bkt.clouddn.com/1523955151452.jpg" />
 <img width=300 height=500 src="http://oleeed73x.bkt.clouddn.com/1523955135615.jpg" />
@@ -53,6 +52,6 @@ render() {
 ```
 ##### 3.属性介绍
 ###### （1）playStatus: 控制gif图的播放桩体，true为播放，false为暂停
-###### （2）imageName: gif图URL，em: https://cimili-cdn-gif-of-track.cimili.com/v2_gif_266_6967.gif
+###### （2）imageName: gif图URL，em: https://xxxx.gif
 
 ##### 成员：[jaydenin](https://github.com/jaydenin)
